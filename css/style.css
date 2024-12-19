@@ -367,6 +367,11 @@ p{
 
 }
 
+.bottom .logo {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
