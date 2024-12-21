@@ -134,17 +134,16 @@ p{
 /* #region hero*/
 .hero {
     padding: 188px 0;
-}
-
-.hero .container {
-    padding-top: 188px;
-    padding-bottom: 188px;
-    padding-right: 330px;
-    padding-left: 330px;
     background-color: #2e2f42;
 }
 
+.hero .container {
+    
+}
+
 .hero-title {
+    display: block;
+    margin: 0 auto;
     max-width: 496px;
     font-weight: 700;
     font-size: 56px;
@@ -228,12 +227,11 @@ p{
 
 .team {
     padding: 120px 0;
+    background-color: #f4f4fd;
 }
 
 .team .container {
-    background-color: #f4f4fd;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    
 }
 
 .our-team {
